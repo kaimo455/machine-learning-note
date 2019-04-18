@@ -1,6 +1,7 @@
 # machine-learning-note
 This is a note for machine learning
 
+# note-for-Gradient Boosting Decision Tree
 ### XgBoost
   - Pre-sorting:
     - For each node, enumerate over all features
