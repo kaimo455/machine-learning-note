@@ -25,4 +25,4 @@ This is a note for machine learning
     - countInClass is how many times the label value was equal to "1" for objects with the current categorical feature value.
     - TotalCount is the total number of objects that have a categorical feature value matching the current one
 
-![](./images/Picture1.png)
+![](/images/Picture1.png)
