@@ -139,9 +139,6 @@ Placeholder
 
   - gain: The average information gain across all splits the feature is used in.
 
-    For example:
-    ![](https://cdn.mathpix.com/snip/images/U9w5dEqgj1zand9NNrFkPF-9kc8O6NU-dWs-pFixKoA.original.fullsize.png)
-
     In summary:
     - step 1: calculate previous node information entropy
     - step 2: calculate all child nodes information entropy and get weighted sum
